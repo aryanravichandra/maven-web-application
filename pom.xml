@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.109.139.220:9980/mithuntechnologies/repository/facebook-releases/</url>
+	      <url>http://3.110.101.177:7569/aryantechnologies/repository/pegasus-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.109.139.220:9980/mithuntechnologies/repository/facebook-snapshot/</url>
+	      <url>http://3.110.101.177:7569/aryantechnologies/repository/pegasus-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
